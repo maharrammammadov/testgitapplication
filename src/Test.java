@@ -1,3 +1,7 @@
+Class{
+
+
+}
 
 Method(){
 
